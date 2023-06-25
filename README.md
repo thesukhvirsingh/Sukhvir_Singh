@@ -1,3 +1,2 @@
-Name: Sukhvir_Singh
-Project Title: Lab 3
+Name: Sukhvir_Singh 
 Student Id: 8807322
